@@ -175,7 +175,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.FPSAsset
+    Standalone: com.DefaultCompany.openworldfps
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -859,7 +859,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: e64edf25-c7d0-489d-a208-9f0e15daa90e
   framebufferDepthMemorylessMode: 0
