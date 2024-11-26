@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90d6beaa0b519b84b8f35c254617fdce
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/Scripts/Movement/dani_license.txt
+  uploadId: 701846

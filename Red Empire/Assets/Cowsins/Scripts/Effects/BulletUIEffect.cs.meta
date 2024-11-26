@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cdf5d4d825d0a2f488fbbf11f17dfb3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/Scripts/Effects/BulletUIEffect.cs
+  uploadId: 701846

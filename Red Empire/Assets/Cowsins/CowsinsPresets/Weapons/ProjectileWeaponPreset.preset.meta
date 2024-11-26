@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cc82a2fd628f0e47ba4c4466b711832
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/CowsinsPresets/Weapons/ProjectileWeaponPreset.preset
+  uploadId: 701846

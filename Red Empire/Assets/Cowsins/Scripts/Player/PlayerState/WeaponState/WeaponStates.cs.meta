@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb02d9480a3e703438d6de27a6b43397
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/Scripts/Player/PlayerState/WeaponState/WeaponStates.cs
+  uploadId: 701846

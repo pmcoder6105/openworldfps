@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c3b4d5f4762c024092c357a14fdf9f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/CowsinsPresets/Weapons/HitscanRiflePreset.preset
+  uploadId: 701846

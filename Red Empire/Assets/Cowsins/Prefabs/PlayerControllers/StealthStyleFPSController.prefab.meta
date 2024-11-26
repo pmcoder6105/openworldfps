@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c13321c710168c14a83fd1530cbd5ac3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218594
+  packageName: FPS Engine
+  packageVersion: 1.3.2
+  assetPath: Assets/Cowsins/Prefabs/PlayerControllers/StealthStyleFPSController.prefab
+  uploadId: 701846
