@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0341178c4e71bbd4c8d5d119903d6f4b
+timeCreated: 1522590611
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/PrefabBuildingOverview.unity
+  uploadId: 241457

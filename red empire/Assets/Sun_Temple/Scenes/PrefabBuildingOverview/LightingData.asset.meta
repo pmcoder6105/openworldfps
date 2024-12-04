@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f62d77bf7423ad44e982d33ff328c481
+timeCreated: 1522594876
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/PrefabBuildingOverview/LightingData.asset
+  uploadId: 241457

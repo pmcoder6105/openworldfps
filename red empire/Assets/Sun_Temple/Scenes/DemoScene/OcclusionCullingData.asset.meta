@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2ee2c5d9b75ae0f418a8ee99cdcea359
+timeCreated: 1522612724
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/DemoScene/OcclusionCullingData.asset
+  uploadId: 241457

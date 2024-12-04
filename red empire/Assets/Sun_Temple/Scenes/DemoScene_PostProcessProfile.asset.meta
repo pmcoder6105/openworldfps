@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 78254f968cc460e408f81c76abc84db0
+timeCreated: 1510699367
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/DemoScene_PostProcessProfile.asset
+  uploadId: 241457

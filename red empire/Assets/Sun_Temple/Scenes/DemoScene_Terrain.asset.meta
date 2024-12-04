@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f823c19a6b6522e419f1a976d5be48e3
+timeCreated: 1510420029
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/DemoScene_Terrain.asset
+  uploadId: 241457

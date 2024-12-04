@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 35d9e576972f6e142becdf3e4d3bbda2
+timeCreated: 1524119300
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/DemoScene/LightingData.asset
+  uploadId: 241457

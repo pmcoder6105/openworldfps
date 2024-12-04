@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8f213b28287d8b4dab42cf4a34f94e5
+timeCreated: 1522402672
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115417
+  packageName: Sun Temple
+  packageVersion: 1.0
+  assetPath: Assets/Sun_Temple/Scenes/DemoScene.unity
+  uploadId: 241457
